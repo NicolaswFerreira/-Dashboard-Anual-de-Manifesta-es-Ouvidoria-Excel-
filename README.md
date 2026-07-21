@@ -13,7 +13,7 @@ O objetivo foi transformar dados tabulares em informações úteis para acompanh
 ## Preview
 
 <p align="center">
-  <img src="dashboard.png" alt="Dashboard Excel" width="900">
+  <img src="Dashboard Excel.png" width="900">
 </p>
 
 ---
