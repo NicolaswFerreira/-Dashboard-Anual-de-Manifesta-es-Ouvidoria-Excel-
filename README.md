@@ -1,6 +1,3 @@
-# -Dashboard-Anual-de-Manifestacoes-Ouvidoria-Excel-
-Interactive Excel dashboard for analyzing ombudsman data using Pivot Tables, Pivot Charts, KPIs and Slicers.
-
 # Dashboard Anual de Manifestações – Ouvidoria (Excel)
 
 ## Sobre o projeto
